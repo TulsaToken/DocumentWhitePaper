@@ -14,5 +14,11 @@ Locker -> Locker (Re-Gain the value by borrowing from the previous Locker)
 Next Gen. Lock & Unlock until 100% Gen Asset open, (when the Supplied Spread and the TVL are full of stack, everyone hodl the TLA token, and 1 to 80% participant sure will re-build take and re-take the gain Value, so it will start from the began Genesis) - the Puzzle Trade, it will continuely re-generate.
 
 CASES Re-Build Tax
-5% of the total Lock will converted into Chain fee's =and will deploy to liquidity for fullfill into the Genesis guarantee.
-Tax to to hold will be spread for next unlockers.
+5% of the total Lock will converted into Chain fee's =and will deploy to liquidity provider for fullfill the Genesis guarantee.
+Tax hold will be spread for next unlockers.
+
+re-Address list *for unlock TLA converter {cWBTC, cUNI - different type of format}
+wBTC, wETH, ETH, UNI - TLA : {0x1dDB034C67E7e5313758c6F4341bE3e2F2d1b010} !the only address of Lock & Unlock
+BNB - TLA : {bnb1yhkjcq99kycwrc86vpsrwxkd0jujhe3ut8zrnr + participant memo of erc20-wallet address} !the only address of Lock & Unlock
+-* will be automatically cut the 5% for liquidity provider.
+
