@@ -1,0 +1,14 @@
+White Paper of Tulsa code: TLA
+Created in 2020, September.
+
+the Genius of Pro Token, the Tulsa Token Wrapped from ETH-BLOCK
+
+*Abstract
+Tulsa has been perfectly deploy under ETH-BLOCK, after researching, re-build from the Prototype that combined the first pro token from Gen.2 to ETH-2 Mechanism, Tulsa are the token format that use the =TVL, from valued assets that build from other project, the cases is to use for Lock & Unlock the value, and the cases to use to run this protocol asset are the standard Contract that has been deployed earlier in Chainlink Token. To do the math and gain to help the Economic of Cryptographics, tulsa are using the technology of Decentralized Locked Guarantee or known as Liquidity, so the participant can build their own economic program for case like borrowing and gain the reward by staking other assets to TLA asset, so after participant use TLA to lock their other asset in Decentralized Pro TLA, the Security has been upgraded into 100% secure to Lock their asset, and afterward they can unlock their other asset with more value.
+
+*Absurdly
+Since the Code are the open-source, there will be no more hidden technic that anyone can re-change, re-build with this Contract. (Means even the- team that build this project CAN NOT change the protocol) it is the Global Open-Source Contract token. Anyone can build with their own profile program, add the API and other tools out of the Contract of Tulsa (TLA) Token.
+
+Mechanism.
+Locker -> Locker (Re-Gain the value by borrowing from the previous Locker)
+Next Gen. Lock & Unlock until 100% Gen Asset open, (when the Supplied Spread and the TVL are full of stack, everyone hodl the TLA token, and 1 to 80% participant sure will re-build take and re-take the gain Value, so it will start from the began Genesis) - the Puzzle Trade, it will continuely re-generate.
