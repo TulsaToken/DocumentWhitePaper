@@ -12,3 +12,7 @@ Since the Code are the open-source, there will be no more hidden technic that an
 Mechanism.
 Locker -> Locker (Re-Gain the value by borrowing from the previous Locker)
 Next Gen. Lock & Unlock until 100% Gen Asset open, (when the Supplied Spread and the TVL are full of stack, everyone hodl the TLA token, and 1 to 80% participant sure will re-build take and re-take the gain Value, so it will start from the began Genesis) - the Puzzle Trade, it will continuely re-generate.
+
+CASES Re-Build Tax
+5% of the total Lock will converted into Chain fee's =and will deploy to liquidity for fullfill into the Genesis guarantee.
+Tax to to hold will be spread for next unlockers.
