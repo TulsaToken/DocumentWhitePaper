@@ -73,7 +73,8 @@ This first version of DeFi SDK is for read-only accounting purposes. Our next st
 
 Like Bitcoin, these services don't require anyone's permission to use, and can be accessed around the world. Trading and lending arrangements are overseen by so-called smart contracts, which serve to enforce whatever deal—perhaps a 6 month loan at 5% interest—two parties have struck on the platform.
 
-*goods TLA with over ETH2 similarity 
+*goods TLA with over ETH2 similarity --
+
 Purchasing goods remotely currently requires multiple parties that need to trust each other. The simplest configuration involves a seller and a buyer. The buyer would like to receive an item from the seller and the seller would like to get money (or an equivalent) in return. The problematic part is the shipment here: There is no way to determine for sure that the item arrived at the buyer.
 There are multiple ways to solve this problem, but all fall short in one or the other way. In the following example, both parties have to put twice the value of the item into the contract as escrow. As soon as this happened, the money will stay locked inside the contract until the buyer confirms that they received the item. After that, the buyer is returned the value (half of their deposit) and the seller gets three times the value (their deposit plus the value). The idea behind this is that both parties have an incentive to resolve the situation or otherwise their money is locked forever.
 
