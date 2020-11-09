@@ -22,7 +22,7 @@ wBTC, wETH, ETH, UNI, YFI - TLA : {0x1dDB034C67E7e5313758c6F4341bE3e2F2d1b010} !
 BNB - TLA : {bnb1yhkjcq99kycwrc86vpsrwxkd0jujhe3ut8zrnr + participant memo of erc20-wallet address} !the only address of Lock & Unlock
 -* will be automatically cut the 5% for liquidity provider.
 
-yfi swap, called sentence:
+yf swap, called sentence:
 *_callSwap = async (sendAsset, account, amount, callback) => {
     const web3 = new Web3(store.getStore('web3context').library.provider);
 
@@ -72,6 +72,12 @@ Supply Allocation (Shares) - Transparency
 This first version of DeFi SDK is for read-only accounting purposes. Our next step is to introduce Interactive Adapters that allow users to make cross-protocol transactions from a single interface. We are incredibly excited to work with developers, users and the wider DeFi community to make these integrations as secure and accessible as possible. Watch this space, because the “De” in DeFi is about to get a whole lot more user-friendly!
 
 Like Bitcoin, these services don't require anyone's permission to use, and can be accessed around the world. Trading and lending arrangements are overseen by so-called smart contracts, which serve to enforce whatever deal—perhaps a 6 month loan at 5% interest—two parties have struck on the platform.
+
+*goods TLA with over ETH2 similarity 
+Purchasing goods remotely currently requires multiple parties that need to trust each other. The simplest configuration involves a seller and a buyer. The buyer would like to receive an item from the seller and the seller would like to get money (or an equivalent) in return. The problematic part is the shipment here: There is no way to determine for sure that the item arrived at the buyer.
+There are multiple ways to solve this problem, but all fall short in one or the other way. In the following example, both parties have to put twice the value of the item into the contract as escrow. As soon as this happened, the money will stay locked inside the contract until the buyer confirms that they received the item. After that, the buyer is returned the value (half of their deposit) and the seller gets three times the value (their deposit plus the value). The idea behind this is that both parties have an incentive to resolve the situation or otherwise their money is locked forever.
+
+This contract of course does not solve the problem, but gives an overview of how you can use state machine-like constructs inside a contract.
 
 this White paper are mean to be Transparent from under Project to the system project, with Beta to Main-Net, simple and usable to do on this project, the PRO, Gen contract, with the standard pro method from Solidity to other code that able to work with this open-source project.
 
