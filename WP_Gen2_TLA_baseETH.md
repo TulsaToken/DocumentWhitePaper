@@ -18,7 +18,7 @@ CASES Re-Build Tax
 Tax hold will be spread for next unlockers.
 
 re-Address list *for unlock TLA converter {cWBTC, cUNI - different type of format}
-wBTC, wETH, ETH, UNI - TLA : {0x1dDB034C67E7e5313758c6F4341bE3e2F2d1b010} !the only address of Lock & Unlock
+wBTC, wETH, ETH, UNI, YFI - TLA : {0x1dDB034C67E7e5313758c6F4341bE3e2F2d1b010} !the only address of Lock & Unlock
 BNB - TLA : {bnb1yhkjcq99kycwrc86vpsrwxkd0jujhe3ut8zrnr + participant memo of erc20-wallet address} !the only address of Lock & Unlock
 -* will be automatically cut the 5% for liquidity provider.
 
