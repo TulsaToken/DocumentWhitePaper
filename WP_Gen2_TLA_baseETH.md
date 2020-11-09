@@ -68,3 +68,9 @@ Supply Allocation (Shares) - Transparency
 
 *Max Total Supply: 100,000 TLA.
     
+*DeFi SDK
+This first version of DeFi SDK is for read-only accounting purposes. Our next step is to introduce Interactive Adapters that allow users to make cross-protocol transactions from a single interface. We are incredibly excited to work with developers, users and the wider DeFi community to make these integrations as secure and accessible as possible. Watch this space, because the “De” in DeFi is about to get a whole lot more user-friendly!
+
+Like Bitcoin, these services don't require anyone's permission to use, and can be accessed around the world. Trading and lending arrangements are overseen by so-called smart contracts, which serve to enforce whatever deal—perhaps a 6 month loan at 5% interest—two parties have struck on the platform.
+
+Tulsa, TLA, Pro. Gen. 2020, V.T Binance
