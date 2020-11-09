@@ -22,3 +22,30 @@ wBTC, wETH, ETH, UNI, YFI - TLA : {0x1dDB034C67E7e5313758c6F4341bE3e2F2d1b010} !
 BNB - TLA : {bnb1yhkjcq99kycwrc86vpsrwxkd0jujhe3ut8zrnr + participant memo of erc20-wallet address} !the only address of Lock & Unlock
 -* will be automatically cut the 5% for liquidity provider.
 
+yfi swap, called sentence:
+*_callSwap = async (sendAsset, account, amount, callback) => {
+    const web3 = new Web3(store.getStore('web3context').library.provider);
+
+    var amountToSend = web3.utils.toWei(amount, "ether")
+    if (sendAsset.decimals !== 18) {
+      amountToSend = amount*10**sendAsset.decimals;
+    }
+
+    let call = ''
+
+    switch (sendAsset.id) {
+      case 'crvV1':
+        call = 'swapv1tov3'
+        break;
+      case 'crvV2':
+        call = 'swapv2tov3'
+        break;
+      case 'crvV3':
+        call = 'swapv3tov4'
+        break;
+      default:
+    }
+    
+
+
+    
