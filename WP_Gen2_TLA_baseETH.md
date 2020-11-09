@@ -46,6 +46,15 @@ yfi swap, called sentence:
       default:
     }
     
+Finance Load
+*the finance load in tulsa TLA are the progress to increase the finance gain exploid by hodl the TLA/STAKE, by having for max 100,000 TLA for trade, means it can get limited time to spend the supplied, TLA are the extend format of token by using only 100,000 TLA to be re-undo and re-using.
+
+ERC20
+*the ERC20 token TLA standardizes convert asset to the ERC20 format.
+*easy access with high PRO protocol, it defind to be the biggest data asset for trust.
+
+Trust issues
+*the TLA are the open-source to be the very Transparency cryptocurrency in internet Digital world-wide.
 
 
     
