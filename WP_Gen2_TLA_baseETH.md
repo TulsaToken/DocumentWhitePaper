@@ -56,6 +56,8 @@ ERC20
 Trust issues
 *the TLA are the open-source to be the very Transparency cryptocurrency in internet Digital world-wide.
 
+---
+
 Supply Allocation (Shares) - Transparency
 
 (82,000 TLA - Total LOCK/UNLOCK)
