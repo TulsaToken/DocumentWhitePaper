@@ -80,6 +80,6 @@ There are multiple ways to solve this problem, but all fall short in one or the 
 
 This contract of course does not solve the problem, but gives an overview of how you can use state machine-like constructs inside a contract.
 
-this White paper are mean to be Transparent from under Project to the system project, with Beta to Main-Net, simple and usable to do on this project, the PRO, Gen contract, with the standard pro method from Solidity to other code that able to work with this open-source project.
+*Final thought to this, White paper are mean to be Transparent from under Project to the system project, with Beta to Main-Net, simple and usable to do on this project, the PRO, Gen contract, with the standard pro method from Solidity to other code that able to work with this open-source project.
 
 Tulsa, TLA, Pro. Gen. 2020, V.T Binance (ANDRE - Founder).
