@@ -73,4 +73,6 @@ This first version of DeFi SDK is for read-only accounting purposes. Our next st
 
 Like Bitcoin, these services don't require anyone's permission to use, and can be accessed around the world. Trading and lending arrangements are overseen by so-called smart contracts, which serve to enforce whatever deal—perhaps a 6 month loan at 5% interest—two parties have struck on the platform.
 
+this White paper are mean to be Transparent from under Project to the system project, with Beta to Main-Net, simple and usable to do on this project, the PRO, Gen contract, with the standard pro method from Solidity to other code that able to work with this open-source project.
+
 Tulsa, TLA, Pro. Gen. 2020, V.T Binance
