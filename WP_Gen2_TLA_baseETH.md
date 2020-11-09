@@ -57,11 +57,11 @@ Trust issues
 *the TLA are the open-source to be the very Transparency cryptocurrency in internet Digital world-wide.
 
 Supply Allocation (Shares)
-82,000 TLA - Total LOCK/UNLOCK
-10,000 TLA - Locked Value
-5,000 TLA - Locked for Assets
-1,500 TLA - Developing Project
-1,500 TLA - Developer Privacy
+(82,000 TLA - Total LOCK/UNLOCK)
+(10,000 TLA - Locked Value)
+(5,000 TLA - Locked for Assets)
+(1,500 TLA - Developing Project)
+(1,500 TLA - Developer Privacy)
 
 *Max Total Supply: 100,000 TLA.
     
